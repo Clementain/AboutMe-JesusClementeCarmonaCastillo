@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jesus Clemente Carmona Castillo</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_scroll" />
+    <string name="bio_text">Bio Text</string>
+    <string name="bio">Hola, mi nombre es Clemente.
+\n\nMe gusta la salsa verde.
+\n\nEse condimento picante que, además de sabores y colores, puede acompañarse
+concasi cualquier comida.
+\nAlgo curioso es que aunque me guste la salsa, no tolero tanto el picante.
+\n\nGeneralmente me gusta la salsa verde, aunque la roja no sea mi favorita, aun asi me gusta su.
+\nsabor a jitomate.
+\nHay veces en las que hago salsa por mi cuenta.
+\n\nUna vez, ahume toda la casa y todos e estaban ahogando por el aroma de los chiles
+asandose.
+\n\n\Me gustaria aprender a hacer distintos tipos de salsa.
+\nDeberías de buscar si a alguien más le gusta la salsa aunque no tolere el picante.\n\n</string>
+</resources>
