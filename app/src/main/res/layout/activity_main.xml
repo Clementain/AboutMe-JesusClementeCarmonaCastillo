@@ -39,6 +39,9 @@
             android:lineSpacingMultiplier="1.2"
             android:paddingStart="@dimen/layout_padding"
             android:paddingEnd="@dimen/layout_padding"
-            android:text="@string/bio" />
+            android:text="@string/bio"
+            app:drawableTopCompat="@drawable/bredbara" />
+
     </ScrollView>
+
 </LinearLayout>
